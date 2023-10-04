@@ -1,0 +1,52 @@
+l {
+  background-color: rgba(22, 12, 109, 0.526);
+}
+
+/* nav {
+  background-color: #160c6d;
+  opacity: 0.8;
+  position: fixed;
+  width: 100%;
+}
+
+div {
+  margin: 0 auto;
+  width: 1170px;
+  display: flex;
+  padding: 20px 0;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 17.5px 0;
+  gap: 40px;
+}
+
+ul li {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+  font-family: "Open Sans", sans-serif;
+}
+
+button {
+  padding: 14px 28px;
+  border-radius: 100px;
+  border: none;
+  background-color: #1bbf00;
+
+  color: #fff;
+  font-size: 18px;
+
+  font-weight: 600;
+  text-transform: capitalize;
+  font-family: "Open Sans", sans-serif;
+} */
+
+p {
+  background-color: rgba(236, 237, 240, 0.596);
+}
